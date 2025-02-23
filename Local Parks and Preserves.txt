@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Parks - City Network</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="cities.html">Cities</a></li>
+                <li><a href="parks.html">Parks</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="parks">
+            <h1>Our Parks</h1>
+
+            <div class="park">
+                <h2>River’s End National Park</h2>
+                <p>Located where the river meets the ocean, this park offers scenic views, hiking trails, and a rich ecosystem.</p>
+            </div>
+
+            <div class="park">
+                <h2>Green Ridge National Preserve</h2>
+                <p>A large, forested preserve with hills, streams, and hiking trails, perfect for nature lovers.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 City Network | All Rights Reserved</p>
+    </footer>
+</body>
+</html>

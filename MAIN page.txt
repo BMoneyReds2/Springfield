@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>City Network: Springfield, Greenridge, Springfield Beach</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="cities.html">Cities</a></li>
+                <li><a href="parks.html">Parks</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="hero">
+            <img src="city_aerial_view.jpg" alt="Aerial View of Springfield">
+            <h1>Welcome to the Future of Springfield, Greenridge, and Springfield Beach</h1>
+        </section>
+
+        <section id="intro">
+            <h2>Discover Our City Network</h2>
+            <p>Our network of cities is built on innovation, sustainability, and a deep connection to nature. Explore our cities, parks, transportation systems, and more.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 City Network | All Rights Reserved</p>
+    </footer>
+</body>
+</html>

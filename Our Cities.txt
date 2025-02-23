@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Cities - City Network</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="cities.html">Cities</a></li>
+                <li><a href="parks.html">Parks</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="cities">
+            <h1>Our Cities</h1>
+
+            <div class="city">
+                <h2>Springfield</h2>
+                <p>Explore Springfield, our bustling metropolis with world-class stadiums, transportation systems, and thriving businesses.</p>
+            </div>
+
+            <div class="city">
+                <h2>Greenridge</h2>
+                <p>Greenridge is a key player in our city network, offering beautiful landscapes, high-tech industries, and an international airport.</p>
+            </div>
+
+            <div class="city">
+                <h2>Springfield Beach</h2>
+                <p>Our coastal paradise, Springfield Beach, offers a thriving tourist economy and a laid-back atmosphere with plenty of attractions.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 City Network | All Rights Reserved</p>
+    </footer>
+</body>
+</html>

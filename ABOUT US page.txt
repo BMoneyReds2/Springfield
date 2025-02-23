@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - City Network</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="cities.html">Cities</a></li>
+                <li><a href="parks.html">Parks</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="about">
+            <h1>About Our City Network</h1>
+            <p>Our cities are interconnected by an advanced subway system, public transit, and rich green spaces. With a focus on sustainability, our out-of-Minecraft government ensures careful oversight.</p>
+            <h2>Mission</h2>
+            <p>We aim to create an integrated, sustainable city network where every individual has access to modern amenities and natural retreats.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 City Network | All Rights Reserved</p>
+    </footer>
+</body>
+</html>
